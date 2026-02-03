@@ -1,5 +1,10 @@
 project:
   type: website
+  resources:
+    - "*.png"
+    - "*.jpg"
+    - "*.jpeg"
+    - "*.gif"
 
 format:
   html:

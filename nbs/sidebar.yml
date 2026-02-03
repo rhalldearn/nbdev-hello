@@ -2,7 +2,7 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 010_encryption_vs_hashing.ipynb
-      - 011_practical_book_cipher_encryption.ipynb
-      - 012_practical_password_hashing.ipynb
-      - 013_practical_encryption.ipynb
+      - encryption_vs_hashing.ipynb
+      - book_cipher_encryption.ipynb
+      - password_hashing.ipynb
+      - encryption.ipynb

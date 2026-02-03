@@ -3,7 +3,7 @@ requires = ["setuptools>=64"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "nbdev-hello"
+name = "ks3-computing-lessons"
 dynamic = ["version"]
 description = ""
 readme = "README.md"
@@ -18,8 +18,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/rhalldearn/nbdev-hello"
-Documentation = "https://rhalldearn.github.io/nbdev-hello/"
+Repository = "https://github.com/rhalldearn/ks3-computing-lessons"
+Documentation = "https://rhalldearn.github.io/ks3-computing-lessons/"
 
 [project.entry-points.nbdev]
 nbdev_hello = "nbdev_hello._modidx:d"
@@ -35,6 +35,6 @@ lib_name = "nbdev_hello"
 lib_path = "nbdev_hello"
 nbs_path = "nbs"
 doc_path = "_docs"
-repo = "rhalldearn/nbdev-hello"
+repo = "rhalldearn/ks3-computing-lessons"
 recursive = true
 custom_sidebar = false

@@ -12,6 +12,10 @@ format:
     css: styles.css
     toc: true
     keep-md: true
+    code-fold: show
+    code-tools: true
+    code-copy: true
+    code-overflow: wrap
   commonmark: default
 
 website:
@@ -21,6 +25,9 @@ website:
   navbar:
     background: primary
     search: true
+    tools:
+      - icon: github
+        href: https://github.com/rhalldearn/ks3-computing-lessons
   sidebar:
     style: floating
 

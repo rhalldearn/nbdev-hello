@@ -37,3 +37,4 @@ nbs_path = "nbs"
 doc_path = "_docs"
 repo = "rhalldearn/nbdev-hello"
 recursive = true
+custom_sidebar = false

@@ -4,5 +4,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/ks3-computing-lessons',
                 'doc_host': 'https://rhalldearn.github.io',
                 'git_url': 'https://github.com/rhalldearn/ks3-computing-lessons',
-                'lib_path': 'ks3-computing-lessons'},
+                'lib_path': 'ks3_computing_lessons'},
   'syms': {}}

@@ -13,7 +13,7 @@ through fun, interactive activities!
 
 ## Available Lessons
 
-### 🔐 [Encryption vs Hashing](https://rhalldearn.github.io/ks3-computing-lessons/01_encryption_vs_hashing.html)
+### 🔐 [Encryption vs Hashing](https://rhalldearn.github.io/ks3-computing-lessons/encryption_vs_hashing.html)
 
 Learn the difference between encryption (lock & unlock) and hashing
 (lock only). Understand why both are important for keeping your data
@@ -25,7 +25,7 @@ real-world examples of both
 
 ------------------------------------------------------------------------
 
-### 📖 [Book Cipher Encryption](https://rhalldearn.github.io/ks3-computing-lessons/02_book_cipher_encryption.html)
+### 📖 [Book Cipher Encryption](https://rhalldearn.github.io/ks3-computing-lessons/book_cipher_encryption.html)
 
 Try encryption yourself using a book cipher! Send secret messages to
 your classmates that only they can decode.
@@ -36,7 +36,7 @@ why keys are important
 
 ------------------------------------------------------------------------
 
-### 🔒 [Password Hashing](https://rhalldearn.github.io/ks3-computing-lessons/03_password_hashing.html)
+### 🔒 [Password Hashing](https://rhalldearn.github.io/ks3-computing-lessons/password_hashing.html)
 
 Discover how websites protect your passwords using one-way hashing. Use
 Python to see hashing in action!
@@ -47,7 +47,7 @@ different hashes - How this protects you from hackers
 
 ------------------------------------------------------------------------
 
-### 🔐 [Encryption](https://rhalldearn.github.io/ks3-computing-lessons/04_encryption.html)
+### 🔐 [Encryption](https://rhalldearn.github.io/ks3-computing-lessons/encryption.html)
 
 Learn how encryption works using a Caesar cipher in Python! Discover how
 keys work and why encryption is different from hashing.

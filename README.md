@@ -60,7 +60,7 @@ encryption protecting your data
 ## Getting Started
 
 1.  **Start with the theory**: Read [Encryption vs
-    Hashing](https://rhalldearn.github.io/ks3-computing-lessons/01_encryption_vs_hashing.html)
+    Hashing](https://rhalldearn.github.io/ks3-computing-lessons/encryption_vs_hashing.html)
     first
 2.  **Try the practicals**: Work through the hands-on activities
 3.  **Discuss**: Use the discussion questions to explore the concepts
